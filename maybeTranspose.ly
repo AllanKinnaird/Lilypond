@@ -8,7 +8,7 @@
 %  the composers with all instruments in the same
 %  key, but operational conductors need to know
 %  what each instrument thinks it's playing, e.g. :
-%  "Clarinet 2 - You should have been playing F# in bar 63!"
+%  "Clarinet 2 - You should have been playing C# in bar 63!"
 
 maybeTranspose =
 #(define-music-function
